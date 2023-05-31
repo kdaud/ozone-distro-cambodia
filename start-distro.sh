@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-export SPA_CONFIG_URLS=/ozone/ozone-frontend-config.json
+export SPA_FRONTEND_CONFIG_URL=/ozone/ozone-frontend-config.json
 
 set -e
 
