@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+export SPA_CONFIG_URLS=/ozone/localization.json,/ozone/custom.json,/ozone/white_label.json,/ozone/ozone-frontend-config.json
+
 set -e
 
 ozoneDockerArtifactId=ozone-docker-compose
