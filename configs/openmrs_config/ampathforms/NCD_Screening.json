@@ -997,7 +997,6 @@
                     ]
                 },
                 {
-					"isExpanded": "true",
                     "label": "Other Health Conditions",
 					"questions": [
 						{
@@ -1027,7 +1026,7 @@
                                         "concept": "4e81d892-1c68-11ee-be56-0242ac120002"
                                     }
                                 ],
-								"rendering": "multiCheckbox"
+								"rendering": "select"
 							},
 							"type": "obs",
 							"validators": []
