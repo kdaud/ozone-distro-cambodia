@@ -143,7 +143,8 @@
         "Female": "Female",
         "Other": "Other",
         "Unknown": "Unknown",
-        "selectAnOption": "Select an option"
+        "selectAnOption": "Select an option",
+        "title": "Referral"
       },
       "km": {
         "Commune": "ឃុំ/សង្កាត់",
@@ -158,7 +159,8 @@
         "Female": "ស្រី",
         "Other": "ផ្សេងៗ",
         "Unknown": "មិនដឹង",
-        "selectAnOption": "សូមជ្រើសរើសជម្រើសណាមួយ"
+        "selectAnOption": "សូមជ្រើសរើសជម្រើសណាមួយ",
+        "title": "បញ្ជូន"
       }
     }
   },
@@ -208,7 +210,7 @@
         ],
         "configure": {
           "obs-by-encounter-widget#referral": {
-            "title": "Referral (បញ្ជូន)",
+            "title": "Referral",
             "showGraphByDefault": true,
             "encounterTypes": [
               "b870b6bb-9441-4664-9087-3d3477174213"
